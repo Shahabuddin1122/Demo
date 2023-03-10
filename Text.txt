@@ -1,2 +1,0 @@
-This is the first version of my file
-I want to commit it to version 2
